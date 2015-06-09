@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
 	"packageUrl" : "https://github.com/yuerain1990/WordGameUpdate.git/",
-=======
 	"packageUrl" : "https://github.com/yuerain/WordGameUpdate.git/",
->>>>>>> e5bc84c5e48f2c874b0d1126890a3da6ed7f6ef8
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/yuerain1990/WordGameUpdate/master/project_dev.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/yuerain1990/WordGameUpdate/master/version_dev.manifest",
 	"version" : "1.1.0",

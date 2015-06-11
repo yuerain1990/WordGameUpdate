@@ -1,16 +1,22 @@
 {
-	"packageUrl" : "https://github.com/yuerain1990/WordGameUpdate.git/",
+	"packageUrl" : "https://codeload.github.com/yuerain1990/WordGameUpdate/zip/master",
 	"remoteManifestUrl" : "https://raw.githubusercontent.com/yuerain1990/WordGameUpdate/master/project_dev.manifest",
 	"remoteVersionUrl" : "https://raw.githubusercontent.com/yuerain1990/WordGameUpdate/master/version_dev.manifest",
 	"version" : "1.1.0",
 	"engineVersion" : "3.6",
 
 	"assets" : {
-		"Images/hello.jpg" : {
+		"src/MainScene.lua" : {
+			"md5" : "..."
+		}
+		"res/fam_sz.png" : {
 			"md5" : "..."
 		}
 	},
-    
+    "master.zip" : {
+            "md5" : "...",
+            "compressed" : true
+        }
     "searchPaths" : [
     ]
 }

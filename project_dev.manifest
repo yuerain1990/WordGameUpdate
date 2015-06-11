@@ -6,16 +6,16 @@
 	"engineVersion" : "3.6",
 
 	"assets" : {
+		"WordGameUpdate-master.zip" : {
+            "md5" : "...",
+            "compressed" : true
+        }
 		"src/MainScene.lua" : {
 			"md5" : "..."
 		}
 		"res/fam_sz.png" : {
 			"md5" : "..."
 		}
-		"WordGameUpdate-master.zip" : {
-            "md5" : "...",
-            "compressed" : true
-        }
 	},
     
     "searchPaths" : [
